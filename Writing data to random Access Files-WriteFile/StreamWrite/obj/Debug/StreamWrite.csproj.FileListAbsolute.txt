@@ -1,0 +1,7 @@
+C:\mlattke\Module3_C#\StreamWrite\StreamWrite\bin\Debug\StreamWrite.exe.config
+C:\mlattke\Module3_C#\StreamWrite\StreamWrite\bin\Debug\StreamWrite.exe
+C:\mlattke\Module3_C#\StreamWrite\StreamWrite\bin\Debug\StreamWrite.pdb
+C:\mlattke\Module3_C#\StreamWrite\StreamWrite\obj\Debug\StreamWrite.csprojAssemblyReference.cache
+C:\mlattke\Module3_C#\StreamWrite\StreamWrite\obj\Debug\StreamWrite.csproj.CoreCompileInputs.cache
+C:\mlattke\Module3_C#\StreamWrite\StreamWrite\obj\Debug\StreamWrite.exe
+C:\mlattke\Module3_C#\StreamWrite\StreamWrite\obj\Debug\StreamWrite.pdb

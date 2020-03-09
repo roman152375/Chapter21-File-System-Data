@@ -1,0 +1,7 @@
+C:\mlattke\Module3_C#\ObjectStore\ObjectStore\bin\Debug\ObjectStore.exe.config
+C:\mlattke\Module3_C#\ObjectStore\ObjectStore\bin\Debug\ObjectStore.exe
+C:\mlattke\Module3_C#\ObjectStore\ObjectStore\bin\Debug\ObjectStore.pdb
+C:\mlattke\Module3_C#\ObjectStore\ObjectStore\obj\Debug\ObjectStore.csprojAssemblyReference.cache
+C:\mlattke\Module3_C#\ObjectStore\ObjectStore\obj\Debug\ObjectStore.csproj.CoreCompileInputs.cache
+C:\mlattke\Module3_C#\ObjectStore\ObjectStore\obj\Debug\ObjectStore.exe
+C:\mlattke\Module3_C#\ObjectStore\ObjectStore\obj\Debug\ObjectStore.pdb

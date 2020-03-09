@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectStore", "ObjectStore\ObjectStore.csproj", "{3DC6FD0A-14CD-4363-8970-FFE20A9C2EAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DC6FD0A-14CD-4363-8970-FFE20A9C2EAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC6FD0A-14CD-4363-8970-FFE20A9C2EAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC6FD0A-14CD-4363-8970-FFE20A9C2EAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC6FD0A-14CD-4363-8970-FFE20A9C2EAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B64805D-231A-4FF3-8046-37837FF6F4CF}
+	EndGlobalSection
+EndGlobal

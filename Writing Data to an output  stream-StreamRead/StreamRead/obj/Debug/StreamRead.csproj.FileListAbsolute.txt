@@ -1,0 +1,7 @@
+C:\mlattke\Module3_C#\StreamRead\StreamRead\bin\Debug\StreamRead.exe.config
+C:\mlattke\Module3_C#\StreamRead\StreamRead\bin\Debug\StreamRead.exe
+C:\mlattke\Module3_C#\StreamRead\StreamRead\bin\Debug\StreamRead.pdb
+C:\mlattke\Module3_C#\StreamRead\StreamRead\obj\Debug\StreamRead.csprojAssemblyReference.cache
+C:\mlattke\Module3_C#\StreamRead\StreamRead\obj\Debug\StreamRead.csproj.CoreCompileInputs.cache
+C:\mlattke\Module3_C#\StreamRead\StreamRead\obj\Debug\StreamRead.exe
+C:\mlattke\Module3_C#\StreamRead\StreamRead\obj\Debug\StreamRead.pdb
